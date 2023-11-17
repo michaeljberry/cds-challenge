@@ -1,0 +1,16 @@
+.display-none {
+    display: none;
+}
+.primary-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+.secondary-label {
+    font-size: 12px;
+}
+.fs-18 {
+    font-size: 18px;
+}
+.main-body {
+    min-height: 50vh;
+}
